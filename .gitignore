@@ -1,2 +1,5 @@
 # Ignore api
 api_keys.py
+
+# Data
+mealdb_local.json
